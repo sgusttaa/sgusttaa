@@ -7,7 +7,7 @@ Head GIF
 <!--
 My Appearance OBS: ":%29" = ":)"
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD61F&size=35&center=true&vCenter=true&width=1000&lines=Olá!!+Meu+nome+é+Gustavo+Da+Silva...;...Formação: +Análise+e+Desenvolvimento+de+Sistemas...;Seja+muito+bem-vindo(a)!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD61F&size=35&center=true&vCenter=true&width=1000&lines=Olá!!+Meu+nome+é+Gustavo+Da+Silva...;...Formação+em+Análise+e+Desenvolvimento+de+Sistemas...;Seja+muito+bem-vindo(a)!)](https://git.io/typing-svg)
 
 
 <!-- FFD61F -->
