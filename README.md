@@ -7,7 +7,7 @@ Head GIF
 <!--
 My Appearance OBS: ":%29" = ":)"
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD61F&size=35&center=true&vCenter=true&width=1000&lines=Olá!!+Meu+nome+é+Gustavo+Da+Silva...;..Formação+em+Análise+e+Desenvolvimento+de+Sistemas...;Seja+muito+bem-vindo(a)!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD61F&size=35&center=true&vCenter=true&width=1000&lines=Olá!!+Meu+nome+é+Gustavo+Da+Silva;Formação+em+Análise+e+Desenvolvimento+de+Sistemas;Seja+muito+bem-vindo(a)!)](https://git.io/typing-svg)
 
 
 <!-- FFD61F -->
@@ -31,9 +31,13 @@ Graph
 Links
 -->
 <div align="center"> 
-<a href="https://www.instagram.com/s_gusttaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+
+<a href="https://www.instagram.com/s_gusttaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
 <a href = "mailto:gustavosilvap2005@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-EB6440?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 <a href="https://www.linkedin.com/in/gustavo-da-silva-prado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+
  </div>
 
 <!--
